@@ -6,3 +6,6 @@ A project that uses a relational database to run and keep results of Swiss style
 - **Tournament.py** (The Python code used to input to and recall data from the DB)
 - **Tournament_test.py** (The Python code that tests the functionality of tournament.py)
 - **Tournament.pyc**
+
+## Required Software
+- **Vagrant** ([installation instructions and links to software](https://www.udacity.com/wiki/ud197/install-vagrant)) 
