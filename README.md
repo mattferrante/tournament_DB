@@ -11,3 +11,8 @@ A project that uses a relational database to run and keep results of Swiss style
 - **Vagrant** ([installation instructions and links to software](https://www.udacity.com/wiki/ud197/install-vagrant)) 
 - **Python 2.7.X** ([link to software](https://www.python.org/downloads/))
 
+## Instructions for Review
+- Clone tis repo to your local machine
+- Open your terminal and navigate to the repo folder you just downloaded
+- Start Vagrant with 'vagrant up'
+
