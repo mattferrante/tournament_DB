@@ -9,3 +9,5 @@ A project that uses a relational database to run and keep results of Swiss style
 
 ## Required Software
 - **Vagrant** ([installation instructions and links to software](https://www.udacity.com/wiki/ud197/install-vagrant)) 
+- **Python 2.7.X** ([link to software](https://www.python.org/downloads/))
+
